@@ -1,6 +1,0 @@
-Name,boSelfSay,boMain,MainNumber,HearString,SayString,NeedItem,GiveItem,CountLimit,RecoverTime,DelayTime,
-1,TRUE,,,,我已经世代守护着这个地方.,,,,,2000,
-2,TRUE,,,,每小时的前5分钟可以进入王陵.,,,,,2500,
-1,TRUE,,,,买卖、共享账号导致的一系列问题不作处理.,,,,,3000,
-4,,TRUE,,交换磐龙斧,你需要给我 新罗玉玺 新罗金冠 才能和你交换.,新罗玉玺:1:新罗金冠:1,磐龙斧:1,,,,
-5,,TRUE,,交换青铜钥匙,你需要给我 熊胆5个 老虎指甲5个 才能和你交换.,熊胆:5:老虎指甲:5,青铜钥匙:1,,,,

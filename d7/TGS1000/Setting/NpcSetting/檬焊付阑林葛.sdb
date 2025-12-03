@@ -1,5 +1,0 @@
-Name,boSelfSay,boMain,MainNumber,HearString,SayString,NeedItem,GiveItem,CountLimit,RecoverTime,DelayTime,
-1,TRUE,,,,천년 초보마을의 주모입니다,,,,,2000,
-2,TRUE,,,,게임에 관한 사항은 길라잡이를 참조해주세요,,,,,2100,
-2,TRUE,,,,이벤트 아이템은 [상품권교환해줘]로 교환합니다.,,,,,2100,
-2,,TRUE,,상품권교환해줘,천/지/인 아이템 각 10개씩과 교환가능합니다.,천:10:지:10:인:10:,인터넷만화방:1:,,,,

@@ -1,2 +1,0 @@
-Name,boSelfSay,boMain,MainNumber,HearString,SayString,NeedItem,GiveItem,CountLimit,RecoverTime,DelayTime,
-1,,TRUE,,交换骨钥匙,你需要给我 骨头 才能和你交换.,骨头:1,骨钥匙:1,,,,

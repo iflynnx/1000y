@@ -1,5 +1,0 @@
-Name,boSelfSay,boMain,MainNumber,HearString,SayString,NeedItem,GiveItem,CountLimit,RecoverTime,DelayTime,
-1,TRUE,,,,请按顺序排队进入.,,,,,2000,
-2,TRUE,,,,这是移至大战场的跳点..,,,,,2100,
-3,TRUE,,,,可以通过跳点移至大战场.,,,,,2200,
-4,TRUE,,,,从大战场可以移至个人比武场..,,,,,2300,

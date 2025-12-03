@@ -1,5 +1,0 @@
-Name,boSelfSay,boMain,MainNumber,HearString,SayString,NeedItem,GiveItem,CountLimit,RecoverTime,DelayTime,
-1,TRUE,,,,你需要买卖吗?.,,,,,2000,
-1,TRUE,,,,禁止使用外挂程序.,,,,,2100,
-2,TRUE,,,,使用外挂程序将被流配边疆.,,,,,2200,
-3,TRUE,,,,买卖、共享账号导致的一系列问题不作处理.,,,,,2300,
