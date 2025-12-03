@@ -1,0 +1,2 @@
+Name,boSelfSay,boMain,MainNumber,HearString,SayString,NeedItem,GiveItem,CountLimit,RecoverTime,DelayTime,
+1,,TRUE,,交换透视符,你需要给我 潜行术 才能和你交换.,潜行术:1,透视符:1,,,,

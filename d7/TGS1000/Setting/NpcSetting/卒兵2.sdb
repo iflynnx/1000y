@@ -1,0 +1,5 @@
+Name,boSelfSay,boMain,MainNumber,HearString,SayString,NeedItem,GiveItem,CountLimit,RecoverTime,DelayTime,
+1,TRUE,,,,请按顺序排队进入.,,,,,2000,
+2,TRUE,,,,移至长城以南的跳点..,,,,,2100,
+3,TRUE,,,,通过跳点移至长城以南.,,,,,2200,
+4,TRUE,,,,超过20岁才能到长城以南.,,,,,2300,

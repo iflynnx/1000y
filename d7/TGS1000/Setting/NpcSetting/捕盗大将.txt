@@ -1,0 +1,5 @@
+SELLITEM:男子卒兵娃娃
+SELLITEM:女子卒兵娃娃
+SELLITEM:门派石
+BUYITEM:桂林符
+BUYITEM:青铜钥匙
